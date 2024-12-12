@@ -1,0 +1,5 @@
+Respaldo generado el: 6/12/2024 19:32:45
+
+Autor,Libro,Fecha de Publicacion,Editorial,ISBN
+Pepe,Juanito,8/12/2001,Pito,9788418127335
+Juan,Pepito,5/3/2010,PitoTriple,97884780289
